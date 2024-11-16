@@ -1,0 +1,1 @@
+Use an AI model to perform core text analysis tasks, focusing on plain text operations such as summarization, tone detection, and thematic breakdown.

@@ -1,0 +1,1 @@
+Prepare the project environment by configuring the Claude API and learning to create and test basic prompts for AI interactions.
