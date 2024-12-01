@@ -1,1 +1,0 @@
-Create multiple chat contexts, each dedicated to a specific book, allowing users to discuss different books independently.
